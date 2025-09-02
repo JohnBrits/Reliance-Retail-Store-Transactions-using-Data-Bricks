@@ -3,7 +3,7 @@
 🔹 Project Overview
 This project simulates Reliance Retail store transaction analytics using Databricks. It demonstrates data ingestion, transformation, analytics, and visualization workflows, along with predictive modeling for sales trends.
 
-Repository Structure
+#Repository Structure
 Reliance-Retail-Store-Transactions-using-DataBricks/
 │── data/                              # Sample transaction datasets
 │   ├── transactions.csv
